@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('Hello')
     print('It lesson')
+    print('git ignore added')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
